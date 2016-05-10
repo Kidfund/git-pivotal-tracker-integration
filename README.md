@@ -91,7 +91,7 @@ $ git start 12345678
         Title: Lorem ipsum dolor sit amet, consectetur adipiscing elitattributes
   Description: Ut consequat sapien ut erat volutpat egestas. Integer venenatis lacinia facilisis.
 
-Enter branch name (12345678-<branch-name>):
+Enter branch name (dev/12345678-<branch-name>):
 ```
 
 The value entered here will be prepended with the story id such that the branch name is `<story-id>-<branch-name>`.  This branch is then created and checked out.
